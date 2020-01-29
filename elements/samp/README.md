@@ -14,6 +14,8 @@ The `<samp />` element's purpose is to enclose inline text which renders copy re
 
 See [example](samp.html)
 
+The `<samp />` element is to be confused with the `<output />` element; if the contents is calculated code from a program then it should reside within an `<output />` element.
+
 ### Styling
 
 #### Font amily
