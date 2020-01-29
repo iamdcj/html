@@ -9,9 +9,8 @@ Information and code related to the Hyper-Text Markup Language.
 ### Core aspects
 
 - Semantics
-- Documents
+- Structure
 - Elements
-  - Anatomy
 - Links
 - Forms
 - Tables
