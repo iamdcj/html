@@ -28,3 +28,9 @@ It isn't unusual for the `<div>`ision element to be used for any ol' piece of co
 it wouldn't take much work for the above snippet to render exactly as the sematic example using [CSS](https://github.com/iamdcj/CSS), however using the right element for the content is both sensible, and worthwhile.
 
 ## Benefits of Semantics
+
+---
+
+#### References
+
+[Semantic Markup](https://html.com/semantic-markup/)
