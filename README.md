@@ -12,7 +12,7 @@ _HyperText Markup Language_ is a declarative, domain-specific, markup language u
 
 - [Semantics](semantics)
 - Structure
-- Elements
+- [Elements](elements)
 - Links
 - Forms
 - Tables
