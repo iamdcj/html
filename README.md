@@ -6,6 +6,11 @@ _HyperText Markup Language_ is a declarative, domain-specific, markup language u
 - **Markup** is used to annotate content(text, images etc,) - the browser recognises the markup tags and displays the page.
 - **Language** because the markup used includes special elements which are the building blocks of a webpage.
 
+An HTML document contains content which is 'marked-up' using the HTML language's elements, these elements describe what the content is, thus informing the browser how to render the content within;
+
+`<p>I am a paragraph, and the browser knows what to do with me.</p>`
+
+
 ---
 
 ### Core aspects
