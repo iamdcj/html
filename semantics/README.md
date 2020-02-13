@@ -1,6 +1,6 @@
 # Semantic HTML
 
-Semantic HTML gives meaning to a document; by using the correct element for it's containing content, the document is marked-up in a meaningful way, aiding both human and machine.
+Semantic HTML gives meaning to a document; by using the correct element for its containing content, the document is marked-up in a meaningful way, aiding both human and machine.
 
 Since the advent of HTML5, applying semantics to a webpage's content has been made a lot simpler - there is now a plethora of elements to choose from, each suited to a particular piece of text, media or collection of items.
 
