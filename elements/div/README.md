@@ -1,10 +1,12 @@
 # The div element
 
-The `<div />` element's purpose is to provide a division between content.
+The `<div />` element's purpose is to provide a division between content. It is good to use when there isn't a more semantic element fit for purpose.
 
 ### Display value: **BLOCK**
 
-The `<div />` element is block level; it does not naturally tolerate elements on the same line.
+The `<div />` element is block level; it doesn't naturally tolerate elements on the same line.
+
+### Content category: **Flow**
 
 ### Example
 
