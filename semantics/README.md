@@ -27,7 +27,7 @@ The following markup is non-semantic, the right element isn't being used for the
 It isn't unusual for the `<div>`ision element to be used for any ol' piece of content. and
 it wouldn't take much work for the above snippet to render exactly as the sematic example using [CSS](https://github.com/iamdcj/CSS), however using the right element for the content is both sensible, and worthwhile.
 
-## Benefits of Semantics
+
 
 ---
 
